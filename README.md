@@ -1,5 +1,5 @@
 # Client Homepage Layout
-This repository featured an HTML and CSS project dedicated to crafting a client website layout. The design prioritizes a semantic structure, employing key HTML elements such as header, nav, main, and footer for enhanced accessibility and SEO benefits.
+This repository featured an HTML and CSS project dedicated to crafting a client website layout, developed as part of a graded assessment for the HTML & CSS in Depth course provided by Meta. The design prioritizes a semantic structure, employing key HTML elements such as header, nav, main, and footer for enhanced accessibility and SEO benefits.
 
 ## Key Features:
 
